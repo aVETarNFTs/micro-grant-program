@@ -72,7 +72,7 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 |  | Milestone 1 | Milestone 2 | Total |
 | - | - |- | - |
 | Estimated Duration | 30 d | 30 d | 60 d |
-| Full-time equivalent (FTE) | 2 | 1 | 3 |
+| Workload (hours) | 2 | 1 | 3 |
 | Cost (up to $ 30,000) | $ 5,000 | $ 10,000 | $ 15,000|
 
 #### Milestone 1 — Smart Contract & Backend
