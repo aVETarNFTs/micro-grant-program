@@ -12,7 +12,7 @@ aVETars' Micro Grant Program for beginner and expert Vechain developers.
 
 2. **Preliminary Review**
 
-   After its submission, an application enters the preliminary review stage where the council will check whether it is formatted correctly and includes all the requested information. The [evaluator](#grant-evaluators) will label the pull request as "ready for committee review" if the application passes the preliminary review.
+   After its submission, an application enters the preliminary review stage where the council will check whether it is formatted correctly and includes all the requested information. The council will label the pull request as "ready for committee review" if the application passes the preliminary review.
    
 3. **Committee Review**
 
