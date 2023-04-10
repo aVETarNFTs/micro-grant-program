@@ -71,8 +71,8 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 
 |  | Milestone 1 | Milestone 2 | Total |
 | - | - |- | - |
-| Estimated Duration | 30 d | 30 d | 60 d |
-| Workload (hours) | 2 | 1 | 3 |
+| Estimated Duration | 5 d | 3 d | 7 d |
+| Workload (hours) | 20 | 9 | 26 |
 
 #### Milestone 1 — Smart Contract & Backend
 
