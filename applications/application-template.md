@@ -73,7 +73,6 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 | - | - |- | - |
 | Estimated Duration | 30 d | 30 d | 60 d |
 | Workload (hours) | 2 | 1 | 3 |
-| Cost (up to $ 30,000) | $ 5,000 | $ 10,000 | $ 15,000|
 
 #### Milestone 1 — Smart Contract & Backend
 
