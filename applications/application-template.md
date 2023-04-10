@@ -1,5 +1,5 @@
 # aVETar Vechain Micro Grant Application Template
-> This application process has been adapted from the https://github.com/vechain
+> This application process has been adapted from the https://github.com/vechain/grant-program/. Hopefully successful micro-grants will find their way to a foundation grant!
 
 ## Project Overview 
 
